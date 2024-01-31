@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+}
+.ava {
+    width: 150px;
+    border-top:4px solid #883C05;
+    border-right:4px solid #883C05;
+    border-bottom:4px solid #883C05;
+    border-left:4px solid #883C05;
+}
+
+.card {
+    margin:0 auto;
+    width:400px;
+    padding: 20px;
+    display:flex;
+    justify-content:space-around;
+    background:#C17A24;
+    border-top:4px solid #883C05;
+    border-right:4px solid #883C05;
+    border-bottom:4px solid #883C05;
+    border-left:4px solid #883C05;
+    text-align: center;
+
+}
